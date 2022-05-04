@@ -4,27 +4,21 @@
 This game is a pixel ancient samurai/fighting themed game written in kaboomjs. 🎮 💥
  --------------------------------------------------------------------------------------
  <idk what to add here> ;(
-  
-  Features to be implemented: *Multiplayer
-                              *More Levels
-                              *Story Mode
-                              * Bullet list item 2
  
-  Features to be implemented:
-  -Multiplayer
-  -More Levels
-  -Story Mode
+ Features To be Implemented:
+
+- Multiplayer
+- More Levels
+- Story Mode
+- Better Menu
  
  *THE FIRST VERSION OF THE GAME WILL BE AVAILABLE TO PLAY ON A NETLIFY SITE AS SOON AS POSSIBLE*
 
-  OSAMU V1.0:
-  -wall collision
-  -crappy menu
-  -start scene
-  -game scene
-  -game music(work in progress)
-  (will add other stuff with the official v1.0 release)
+ <h1>OSAMU V1.0:<h1>
+ - wall collision
+ - crappy menu
+ - start scene
+ - game scene
+ - game music(work in progress)
+ - (will add other stuff with the official v1.0 release)
  
- *ww
- *ee
- *re
