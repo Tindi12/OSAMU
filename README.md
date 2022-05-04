@@ -3,7 +3,7 @@
 
 This game is a pixel ancient samurai/fighting themed game written in kaboomjs. 🎮 💥
  --------------------------------------------------------------------------------------
- <idk what to add here> ;(
+ <p>idk what to add here ;(<p>
  
  Features To be Implemented:
 
