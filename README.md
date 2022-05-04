@@ -25,7 +25,6 @@ This game is a pixel ancient samurai/fighting themed game written in kaboomjs. ð
   -game music(work in progress)
   (will add other stuff with the official v1.0 release)
  
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+ *ww
+ *ee
+ *re
