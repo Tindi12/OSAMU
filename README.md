@@ -5,6 +5,11 @@ This game is a pixel ancient samurai/fighting themed game written in kaboomjs. ð
  --------------------------------------------------------------------------------------
  <idk what to add here> ;(
   
+  Features to be implemented: *Multiplayer
+                              *More Levels
+                              *Story Mode
+                              * Bullet list item 2
+ 
   Features to be implemented:
   -Multiplayer
   -More Levels
