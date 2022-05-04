@@ -12,9 +12,9 @@ This game is a pixel ancient samurai/fighting themed game written in kaboomjs. ð
 - Story Mode
 - Better Menu
  
- *THE FIRST VERSION OF THE GAME WILL BE AVAILABLE TO PLAY ON A NETLIFY SITE AS SOON AS POSSIBLE*
+ <h7>THE FIRST VERSION OF THE GAME WILL BE AVAILABLE TO PLAY ON A NETLIFY SITE AS SOON AS POSSIBLE<h7>
 
- <h1>OSAMU V1.0:<h1>
+ <h6>OSAMU V1.0:<h6>
  - wall collision
  - crappy menu
  - start scene
