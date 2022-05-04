@@ -2922,7 +2922,7 @@ vec4 frag(vec3 pos, vec2 uv, vec4 color, sampler2D tex) {
   scene("start", () => {
     add([
       text("Welcome to OSAMU! press ENTER to start!", { size: 24 }),
-      pos(vec2(310, 120)),
+      pos(vec2(298, 120)),
       origin("center"),
       color(255, 255, 255)
     ]);
